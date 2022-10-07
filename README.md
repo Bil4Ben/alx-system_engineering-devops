@@ -1,2 +1,2 @@
 #!/bin/bash
-This is a starting point for system enginnering\n
+This is a starting point for system engineering. \n
