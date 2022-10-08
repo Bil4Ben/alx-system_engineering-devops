@@ -1,2 +1,2 @@
-#!/bin/bush
+#!/bin/bash
 rm /temp/my_first_directory/betty
