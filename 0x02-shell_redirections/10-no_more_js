@@ -1,2 +1,2 @@
-#!/bil/bash
-rm *js
+#!/bin/bash
+find . -type f -name "*.js" -exec rm -v {} \;
