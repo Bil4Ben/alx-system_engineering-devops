@@ -1,2 +1,2 @@
 #!/bin/bash
-l > "Hello world" 
+echo "Hello world" \n
