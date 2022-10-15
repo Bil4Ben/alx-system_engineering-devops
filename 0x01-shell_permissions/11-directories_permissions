@@ -1,2 +1,2 @@
 #!/bin/bash
-chrom -R 777 * 
+chrom -R 777 /* 
