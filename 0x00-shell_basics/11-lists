@@ -1,2 +1,2 @@
 #!/bil/bash
-ls -la . ../ ../boot
+ls -al . ../ /boot
