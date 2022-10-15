@@ -1,2 +1,2 @@
 #!/bin/bash
-chrom -R 555 * 
+chrom -R 777 * 
