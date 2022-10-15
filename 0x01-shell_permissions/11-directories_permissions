@@ -1,2 +1,2 @@
 #!/bin/bash
-chrom -R 
+chrom -R ugo+rwx /
