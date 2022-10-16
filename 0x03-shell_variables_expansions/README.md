@@ -4,4 +4,4 @@ Shell Arithmetic,
 Variables,
 Shell initialization files,
 The alias Command, and
-Technical Writing
+Technical Writing \n
