@@ -1,5 +1,5 @@
 #!/bin/bash
-This is a practice on Expansions
+This is a practice on Expansions \n
 Shell Arithmetic,
 Variables,
 Shell initialization files,
