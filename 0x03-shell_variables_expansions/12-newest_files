@@ -1,0 +1,3 @@
+#!/bin/bash
+ls | sort -n | tail -10
+
