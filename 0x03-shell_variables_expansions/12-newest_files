@@ -1,3 +1,2 @@
 #!/bin/bash
-ls | tail -10
-
+ls |grep 'date +%D' | tail -10
