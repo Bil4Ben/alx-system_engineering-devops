@@ -1,2 +1,2 @@
 #!/bin/bash
-ls |grep 'date +%D' | tail -10
+ls |sort -t | tail -10
